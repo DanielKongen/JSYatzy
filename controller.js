@@ -1,3 +1,3 @@
 hej 
 hejhej
-let daniel = herer
+let daniel = her
